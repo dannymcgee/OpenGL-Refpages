@@ -150,53 +150,53 @@
         <para>
             <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll">
                 <mml:mfrac>
-                  <mml:mi>&delta;s</mml:mi>
-                  <mml:mi>&delta;x</mml:mi>
+                  <mml:mi>δs</mml:mi>
+                  <mml:mi>δx</mml:mi>
                 </mml:mfrac>
                 <mml:mo>=</mml:mo>
                 <mml:mfrac>
-                  <mml:mi>&delta;P</mml:mi>
-                  <mml:mi>&delta;x</mml:mi>
+                  <mml:mi>δP</mml:mi>
+                  <mml:mi>δx</mml:mi>
                 </mml:mfrac>
-                <mml:mi>&nbsp; for a 1D texture,&nbsp;  </mml:mi>
+                <mml:mi>  for a 1D texture,   </mml:mi>
                 <mml:mfrac>
-                  <mml:mi>&delta;P.s</mml:mi>
-                  <mml:mi>&delta;x</mml:mi>
+                  <mml:mi>δP.s</mml:mi>
+                  <mml:mi>δx</mml:mi>
                 </mml:mfrac>
-                <mml:mi>&nbsp;  otherwise</mml:mi>
+                <mml:mi>   otherwise</mml:mi>
             </mml:math></inlineequation>
         </para>
         <para>
             <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll">
                 <mml:mfrac>
-                  <mml:mi>&delta;s</mml:mi>
-                  <mml:mi>&delta;y</mml:mi>
+                  <mml:mi>δs</mml:mi>
+                  <mml:mi>δy</mml:mi>
                 </mml:mfrac>
                 <mml:mo>=</mml:mo>
                 <mml:mfrac>
-                  <mml:mi>&delta;P</mml:mi>
-                  <mml:mi>&delta;y</mml:mi>
+                  <mml:mi>δP</mml:mi>
+                  <mml:mi>δy</mml:mi>
                 </mml:mfrac>
-                <mml:mi>&nbsp;  for a 1D texture,&nbsp; </mml:mi>
+                <mml:mi>   for a 1D texture,  </mml:mi>
                 <mml:mfrac>
-                  <mml:mi>&delta;P.s</mml:mi>
-                  <mml:mi>&delta;y</mml:mi>
+                  <mml:mi>δP.s</mml:mi>
+                  <mml:mi>δy</mml:mi>
                 </mml:mfrac>
-                <mml:mi>&nbsp;  otherwise</mml:mi>
+                <mml:mi>   otherwise</mml:mi>
             </mml:math></inlineequation>
         </para>
         <para>
             <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll">
                 <mml:mfrac>
-                  <mml:mi>&delta;t</mml:mi>
-                  <mml:mi>&delta;x</mml:mi>
+                  <mml:mi>δt</mml:mi>
+                  <mml:mi>δx</mml:mi>
                 </mml:mfrac>
                 <mml:mo>=</mml:mo>
                 <mml:mn>0.0</mml:mn>
-                <mml:mi>&nbsp; for a 1D texture,&nbsp; </mml:mi>
+                <mml:mi>  for a 1D texture,  </mml:mi>
                 <mml:mfrac>
-                  <mml:mi>&delta;P.t</mml:mi>
-                  <mml:mi>&delta;x</mml:mi>
+                  <mml:mi>δP.t</mml:mi>
+                  <mml:mi>δx</mml:mi>
                 </mml:mfrac>
                 <mml:mi> otherwise</mml:mi>
             </mml:math></inlineequation>
@@ -204,49 +204,49 @@
         <para>
             <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll">
                 <mml:mfrac>
-                  <mml:mi>&delta;t</mml:mi>
-                  <mml:mi>&delta;y</mml:mi>
+                  <mml:mi>δt</mml:mi>
+                  <mml:mi>δy</mml:mi>
                 </mml:mfrac>
                 <mml:mo>=</mml:mo>
                 <mml:mn>0.0</mml:mn>
-                <mml:mi>&nbsp; for a 1D texture,&nbsp; </mml:mi>
+                <mml:mi>  for a 1D texture,  </mml:mi>
                 <mml:mfrac>
-                  <mml:mi>&delta;P.t</mml:mi>
-                  <mml:mi>&delta;y</mml:mi>
+                  <mml:mi>δP.t</mml:mi>
+                  <mml:mi>δy</mml:mi>
                 </mml:mfrac>
-                <mml:mi>&nbsp; otherwise</mml:mi>
+                <mml:mi>  otherwise</mml:mi>
             </mml:math></inlineequation>
         </para>
         <para>
             <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll">
                 <mml:mfrac>
-                  <mml:mi>&delta;r</mml:mi>
-                  <mml:mi>&delta;x</mml:mi>
+                  <mml:mi>δr</mml:mi>
+                  <mml:mi>δx</mml:mi>
                 </mml:mfrac>
                 <mml:mo>=</mml:mo>
                 <mml:mn>0.0</mml:mn>
-                <mml:mi>&nbsp; for a 1D or 2D texture,&nbsp; </mml:mi>
+                <mml:mi>  for a 1D or 2D texture,  </mml:mi>
                 <mml:mfrac>
-                  <mml:mi>&delta;P.p</mml:mi>
-                  <mml:mi>&delta;x</mml:mi>
+                  <mml:mi>δP.p</mml:mi>
+                  <mml:mi>δx</mml:mi>
                 </mml:mfrac>
-                <mml:mi>&nbsp; otherwise</mml:mi>
+                <mml:mi>  otherwise</mml:mi>
             </mml:math></inlineequation>
         </para>
         <para>
             <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll">
                 <mml:mfrac>
-                  <mml:mi>&delta;r</mml:mi>
-                  <mml:mi>&delta;y</mml:mi>
+                  <mml:mi>δr</mml:mi>
+                  <mml:mi>δy</mml:mi>
                 </mml:mfrac>
                 <mml:mo>=</mml:mo>
                 <mml:mn>0.0</mml:mn>
-                <mml:mi>&nbsp; for a 1D or 2D texture,&nbsp; </mml:mi>
+                <mml:mi>  for a 1D or 2D texture,  </mml:mi>
                 <mml:mfrac>
-                  <mml:mi>&delta;P.p</mml:mi>
-                  <mml:mi>&delta;y</mml:mi>
+                  <mml:mi>δP.p</mml:mi>
+                  <mml:mi>δy</mml:mi>
                 </mml:mfrac>
-                <mml:mi>&nbsp; otherwise</mml:mi>
+                <mml:mi>  otherwise</mml:mi>
             </mml:math></inlineequation>
         </para>
         <para>

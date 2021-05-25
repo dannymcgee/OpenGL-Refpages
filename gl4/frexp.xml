@@ -61,7 +61,7 @@
                 <mml:mi>x</mml:mi>
                 <mml:mo>=</mml:mo>
                 <mml:mi>significand</mml:mi>
-                <mml:mo lspace="2px" rspace="2px">&sdot;</mml:mo>
+                <mml:mo lspace="2px" rspace="2px">⋅</mml:mo>
                 <mml:msup>
                 <mml:mn>2</mml:mn>
                 <mml:mi>exponent</mml:mi>

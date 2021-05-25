@@ -51,11 +51,11 @@
                       <mml:mi>e</mml:mi>
                       <mml:mi>x</mml:mi>
                     </mml:msup>
-                    <mml:mo>&minus;</mml:mo>
+                    <mml:mo>-</mml:mo>
                     <mml:msup>
                       <mml:mi>e</mml:mi>
                       <mml:mrow>
-                        <mml:mo>&minus;</mml:mo>
+                        <mml:mo>-</mml:mo>
                         <mml:mi>x</mml:mi>
                       </mml:mrow>
                     </mml:msup>

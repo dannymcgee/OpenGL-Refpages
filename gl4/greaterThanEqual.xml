@@ -59,7 +59,7 @@
     <refsect1 xml:id="description"><title>Description</title>
         <para>
             <function>greaterThanEqual</function> returns a boolean vector in which each element <emphasis>i</emphasis> is computed
-            as <parameter>x</parameter>[<emphasis>i</emphasis>] &ge; <parameter>y</parameter>[<emphasis>i</emphasis>].
+            as <parameter>x</parameter>[<emphasis>i</emphasis>] ≥ <parameter>y</parameter>[<emphasis>i</emphasis>].
         </para>
     </refsect1>
     <refsect1 xml:id="versions"><title>Version Support</title>

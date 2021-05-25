@@ -61,7 +61,7 @@
             a 32-bit unsigned integer result, along with a borrow output. The result is the difference of <parameter>x</parameter> and
             <parameter>y</parameter> if non-negative, or <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"><mml:msup><mml:mn>2</mml:mn><mml:mn>32</mml:mn></mml:msup></mml:math></inlineequation>
             plus that difference otherwise.
-            The value <parameter>borrow</parameter> is set to 0 if <parameter>x</parameter> &ge; <parameter>y</parameter> and to 1 otherwise.
+            The value <parameter>borrow</parameter> is set to 0 if <parameter>x</parameter> ≥ <parameter>y</parameter> and to 1 otherwise.
         </para>
     </refsect1>
     <refsect1 xml:id="versions"><title>Version Support</title>

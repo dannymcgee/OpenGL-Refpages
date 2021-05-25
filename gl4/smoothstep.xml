@@ -92,7 +92,7 @@
     return t * t * (3.0 - 2.0 * t);</programlisting>
         </para>
         <para>
-            Results are undefined if <parameter>edge0</parameter> &ge; <parameter>edge1</parameter>.
+            Results are undefined if <parameter>edge0</parameter> ≥ <parameter>edge1</parameter>.
         </para>
     </refsect1>
     <refsect1 xml:id="versions"><title>Version Support</title>
